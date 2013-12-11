@@ -391,6 +391,23 @@ color:#000
   padding-top: 40px;
 }
 
+#footer_wrap2 {
+background: url('http://upload.wikimedia.org/wikipedia/commons/1/16/Commerce_Department_DC.JPG')  no-repeat ;
+background-size: 1500px;
+background-attachment:fixed;
+  height: 300px;
+  font-size: 30px;
+}
+#downloads2 {
+  position: absolute;
+  width: 210px;
+  z-index: 10;
+  bottom: -200px;
+  right: 25px;
+  height: 70px;
+  color: #1c3d46;
+
+}
 #footer_wrap {
   background: #1c3d46;
 }
