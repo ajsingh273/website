@@ -395,7 +395,8 @@ color:#000
 background: url('http://upload.wikimedia.org/wikipedia/commons/1/16/Commerce_Department_DC.JPG')  no-repeat ;
 background-size: 1500px;
 background-attachment:fixed;
-  height: 400px;
+background-position:center bottom;
+  height: 300px;
   font-size: 30px;
 }
 #downloads2 {
