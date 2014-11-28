@@ -1,0 +1,13 @@
+---
+layout: default
+img: Opensource.svg.png
+category: Services
+title: OPEN SOURCE
+description: |
+  <p class="lead">GovWizely focuses in the areas of data, search, and analytics. While many times those three words are thought of as separate industries, we view them all as necessary components to making data exploration easy.</p>
+  <p class="lead"><h4>(Big) Data Software</h4>End users do not care about back end technologies, they just want to interact with the data and get answers. GovWizely will bring the best possible solution to its customer, whether it is Hadoop, a database, or searching flat files.</p>
+  <p class="lead"><h4>Search Software</h4>The team at GovWizely has experience with a wide variety of search software solutions, but lately, we primarily utilize Elastic Search.</p>
+  <p class="lead"><h4>Ruby and CMS Free</h4>We use Ruby for our application development and leverage GitHub pages for CMS free web publishing when allowed.</p>
+  <p class="lead"><h4>SaaS Services</h4>GovWizely believes in leveraging SaaS services. While it may be difficult in the government to get them approved, we are willing to fight the fight to help move DC IT to modern best practices.</p>
+  
+---

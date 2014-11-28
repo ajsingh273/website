@@ -1,13 +1,29 @@
-name: GovWizely
-pygments: true
-baseurl:
-markdown: rdiscount
-exclude:
-  - .bundle
-  - .git
-  - .gitignore
-  - bin
-  - README.md
-  - Gemfile
-  - Gemfile.lock
-  - vendor
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: http://www.govwizely.com/
+title: GovWizely
+email: info@govwizely.com
+description: > # "Write an awesome description for your new site here. 
+  GovWizely helps government agencies build applications with their data. We bring modern technologies to government projects and work with our clientele to fight bureaucratic roadblocks. 
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+social:
+  - title: twitter
+    url: 
+  - title: github
+    url: https://github.com/GovWizely
+  - title: linkedin
+    url: https://www.linkedin.com/company/govwizely
