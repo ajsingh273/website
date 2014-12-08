@@ -1,6 +1,6 @@
 ---
 layout: default
-img: Opensource.svg.png
+img: commerce.png
 category: Services
 title: OPEN SOURCE
 description: |

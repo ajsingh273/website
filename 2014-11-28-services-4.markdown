@@ -1,6 +1,6 @@
 ---
 layout: default
-img: dc.png
+img: dc2.png
 category: Services
 title: ABOUT
 description: |

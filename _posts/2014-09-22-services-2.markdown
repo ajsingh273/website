@@ -1,12 +1,5 @@
 ---
 layout: default
-img: commerce.png
 category: Services
 title: SERVICES
-description: |
-  <p class="lead"><h4>Planning</h4>We ensure that a proper foundation exists at the start of a project. We focus on the business goals first, and that our customers have realistic expectations. GovWizely needs a client point person to be responsible for accepting and prioritizing work on a daily basis.</p>
-  <p class="lead"><h4>Product Development</h4>We release software to our customer’s user base as fast as we can. We achieve this by using Agile, and our clients have daily interaction with the project team to accept and work. We use test driven development and employ third party tools that will evaluate and grade the code quality.</p>
-  <p class="lead"><h4>Product Launch</h4>When we release software, we want to make sure people use it! GovWizely will help with basic "marketing" tasks to make sure the audience knows about the impending solution and will be ready to use it. This immediate feedback is also important to drive the next iterations.</p>
-  <p class="lead"><h4>Post-Launch Support</h4>After a launch, we revisit our customer’s needs. While, we are “expendable” because we write the software in the way that anyone can take over, our projects tend to be complex. We have found that customers need non-software development functions, such as change managers, data analysts, librarians, or customer support.</p>
-  
 ---
